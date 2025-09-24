@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kritik0007" alt="kritik0007" /></a> </p>
 
-- 🌱 I’m currently learning **web development**
+- 🌱 I’m currently learningggg **web development**
 
 - 📫 How to reach me **kritiks702@gmail.com**
 
