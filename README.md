@@ -22,8 +22,8 @@
 [![python](https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg)](https://www.python.org)
 
 ### GitHub Stats:
-[![kritik0007's stats](https://github-readme-stats.vercel.app/api?username=kritik0007&show_icons=true&locale=en&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kritik0007&show_icons=true&locale=en&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![kritik0007's stats](https://github-readme-stats.vercel.app/api?username=kritik0007&show_icons=true&locale=en&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kritik0007&show_icons=true&locale=en&layout=compact&theme=dark&exclude_repo=sandeep-photography)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Trophies:
-[![kritik0007](https://github-profile-trophy.vercel.app/?username=kritik0007)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=kritik0007&theme=flat&no-frame=true&row=1&column=6)](https://github.com/ryo-ma/github-profile-trophy)
