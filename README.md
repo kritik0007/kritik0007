@@ -88,12 +88,13 @@ $ kritik --info
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=kritik0007&show_icons=true&hide_border=true&count_private=true&title_color=39FF14&icon_color=39FF14&text_color=c9d1d9&bg_color=0d1117" alt="stats" />
 <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=kritik0007&hide_border=true&background=0d1117&stroke=39FF14&ring=39FF14&fire=39FF14&currStreakLabel=39FF14&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=8b949e" alt="streak" />
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kritik0007&layout=compact&hide_border=true&langs_count=8&title_color=39FF14&text_color=c9d1d9&bg_color=0d1117&exclude_repo=sandeep-photography" alt="top langs" />
-
 <img height="165" src="https://leetcard.jacoblin.cool/GV2023000357?theme=dark&font=Fira%20Code&ext=heatmap&border=0" alt="leetcode" />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=kritik0007&theme=github_dark" alt="stats" />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kritik0007&theme=github_dark" alt="most used languages" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kritik0007&theme=github_dark" alt="repos per language" />
 
 </div>
 
@@ -116,11 +117,13 @@ $ kritik --info
 
 <!-- ============================================================================ -->
 
-## `~/trophies`
+## `~/summary`
 
 <div align="center">
 
-<img width="100%" src="https://github-profile-trophy.vercel.app/?username=kritik0007&theme=matrix&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" alt="trophies" />
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kritik0007&theme=github_dark" alt="profile summary" />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=kritik0007&theme=github_dark&utcOffset=5.5" alt="productive time" />
 
 </div>
 
