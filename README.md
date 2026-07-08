@@ -88,8 +88,8 @@ $ kritik --info
 
 <div align="center">
 
-<img height="165" src="https://streak-stats.demolab.com/?user=kritik0007&background=0d1117&border=39FF14&stroke=39FF14&ring=39FF14&fire=39FF14&currStreakLabel=39FF14&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=8b949e" alt="streak" />
-<img height="165" src="https://leetcard.jacoblin.cool/GV2023000357?theme=forest&font=Fira%20Code&ext=heatmap" alt="leetcode" />
+<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=kritik0007&background=0d1117&border=39FF14&stroke=39FF14&ring=39FF14&fire=39FF14&currStreakLabel=39FF14&currStreakNum=ffffff&sideLabels=39FF14&sideNums=ffffff&dates=8b949e" alt="streak" />
+<img height="165" src="https://leetcard.jacoblin.cool/GV2023000357?theme=nord&font=Fira%20Code&ext=heatmap" alt="leetcode" />
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=kritik0007&theme=github_dark" alt="stats" />
 
